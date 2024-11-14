@@ -1,7 +1,7 @@
 ---
 title: First Post
 layout: "base.njk"
-permalink: "index.html"
+permalink: "post.html"
 ---
 
 First post content!

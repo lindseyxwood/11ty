@@ -5,4 +5,4 @@ layout: base.njk
 permalink: index.html
 ---
 
-Meow
+This is my home page!

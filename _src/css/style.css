@@ -1,4 +1,18 @@
-body{
+body{ background-color: cadetblue;
     font-family: Arial, Helvetica, sans-serif;
     color: blueviolet;
 }
+
+h1 {
+    color: darksalmon;
+}
+
+div.flex {display: flex;
+    justify-content:space-evenly;
+    width:90vw;
+    background-color:lemonchiffon;
+}
+
+div.flex img {
+    max-width:200px;
+    width:80%;}
